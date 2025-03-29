@@ -48,4 +48,4 @@ This program is licensed under the MIT License - see the LICENSE file for detail
 
 Support
 -------
-If you have issues, feel free to open an issue on GitHub at [your GitHub repo URL].
+If you have issues, feel free to open an issue on GitHub at https://github.com/KaffeMedFika/Spotify-Playlist-Downloader.
